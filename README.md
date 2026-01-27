@@ -2,10 +2,9 @@
   <h2>Haitham KSENTINI 👋</h2>
   <p>Software Engineer • France</p>
   <p>
-    <a href="mailto:bezaraflorent@gmail.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://me.gasycoder.com"><img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/florentbezara/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://x.com/Florent_bezara"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" /></a>
+    <a href="mailto:ksentinihaitham@gmail.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://haitham-ksentini.com"><img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/haitham-ksentini/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </p>
 </div>
 
@@ -13,8 +12,7 @@
 ---
 
 ## About
-I build **robust backend systems** and **SaaS platforms** with **Laravel + Livewire**, and ship modern frontends with **Vue.js / Next.js**.  
-I also work on **AI tools**, **automation workflows (n8n)**, and **CLI utilities** to improve productivity.
+Experienced software engineer specializing in web application development and database design. Advanced expertise in PHP and Java, with solid experience in frameworks (Symfony, Spring Boot) and database management systems (MySQL, PostgreSQL). Skilled in API integration, performance optimization, and DevOps practices (CI/CD, Docker). Results-oriented and focused on customer satisfaction, with excellent communication skills, strong adaptability, and a collaborative team spirit.
 
 - 🔭 Building **AI tools** & **SaaS projects**
 - 🌱 Exploring **Dolibarr ↔ Laravel** integrations (APIs, automation, multi-tenant)
