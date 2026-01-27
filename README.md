@@ -29,7 +29,7 @@ Experienced software engineer specializing in web application development and da
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=Twig,Angular,React,js&perline=8" />
+  <img src="https://skillicons.dev/icons?i=twig,angular,react,js&perline=8" />
 </p>
 
 ### Data & Infra
