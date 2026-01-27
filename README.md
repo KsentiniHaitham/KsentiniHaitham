@@ -24,22 +24,22 @@ Experienced software engineer specializing in web application development and da
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,symfony&perline=8" />
+  <img src="https://skillicons.dev/icons?i=symfony,php,java,python,&perline=8" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,nextjs,tailwind,js&perline=8" />
+  <img src="https://skillicons.dev/icons?i=Twig,Angular,React,js&perline=8" />
 </p>
 
 ### Data & Infra
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux,nginx&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,bitbucket,nginx&perline=8" />
 </p>
 
 ### Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,azure,postman&perline=8" />
 </p>
 
 ---
