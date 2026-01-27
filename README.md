@@ -34,7 +34,7 @@ Experienced software engineer specializing in web application development and da
 
 ### Data & Infra
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,bitbucket,nginx&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,bitbucket,jira&perline=8" />
 </p>
 
 ### Tools & Workflow
