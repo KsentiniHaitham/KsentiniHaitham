@@ -24,7 +24,7 @@ Experienced software engineer specializing in web application development and da
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs&perline=8" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,symfony&perline=8" />
 </p>
 
 ### Frontend
@@ -34,7 +34,7 @@ Experienced software engineer specializing in web application development and da
 
 ### Data & Infra
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,linux,nginx&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux,nginx&perline=8" />
 </p>
 
 ### Tools & Workflow
