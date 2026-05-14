@@ -1,19 +1,21 @@
 ---
 <div align="center">
 <h2>Haitham KSENTINI 👋</h2>
-<p>Software Engineer • France</p>
+<p>Full Stack Developer • Symfony | Nancy, France</p>
 <p>
 <a href="mailto:ksentinihaitham@gmail.com"><img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://haitham-ksentini.com"><img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://haitham-ksentini.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/haitham-ksentini/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+<img src="https://img.shields.io/badge/Open%20to%20Opportunities-2ea44f?style=flat-square" />
 </div>
 
 ---
 
 ## About
-Experienced software engineer specializing in web application development and database design. Advanced expertise in PHP and Java, with solid experience in frameworks (Symfony, Laravel, Spring Boot) and database management systems (MySQL, PostgreSQL). Skilled in API integration, performance optimization, and DevOps practices (CI/CD, Docker). Results-oriented and focused on customer satisfaction, with excellent communication skills, strong adaptability, and a collaborative team spirit.
+Experienced software engineer specializing in web application development and database design. Advanced expertise in PHP and Java, with solid experience in frameworks (Symfony, Laravel, Spring Boot) and database management systems (MySQL, PostgreSQL, Redis). Skilled in API integration, performance optimization, and DevOps practices (CI/CD, Docker).
 
+- 💼 **Chef de Projet Digital** @ ICN Business School — LMS migration (Opigno/Drupal → Moodle), SSO Azure AD, AI integrations (Nolej, Murf AI, Panopto)
 - 🔭 Building **AI tools** & **SaaS projects**
 - 🌱 Exploring **Dolibarr ↔ Laravel** integrations (APIs, automation, multi-tenant)
 - ⚙️ Interested in clean architecture, performance, and DX (Developer Experience)
@@ -34,12 +36,12 @@ Experienced software engineer specializing in web application development and da
 
 ### Data & Infra
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,azure,heroku&perline=8" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,azure&perline=8" />
 </p>
 
 ### Tools & Workflow
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,webpack&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&perline=8" />
 </p>
 
 ---
@@ -48,12 +50,14 @@ Experienced software engineer specializing in web application development and da
 - 🔁 **n8n**: workflow automation, integrations, notifications, ETL light
 - 🤖 **AI CLI**: small command-line tools for content ops, data cleanup, and dev productivity
 - 🧠 LLM integration patterns: prompt engineering, API orchestration, async jobs/queues
+- 🎓 **AI in Education**: Nolej AI, Murf AI, ChallengeME, LinkedIn Learning integrations
 
 ### Badges
 <p>
 <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/AI-Tools-111?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/CLI-Bash-111?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Moodle-LMS-F98012?style=flat-square&logo=moodle&logoColor=white" />
 </p>
 
 ---
