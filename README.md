@@ -15,7 +15,7 @@
 ## About
 Experienced software engineer specializing in web application development and database design. Advanced expertise in PHP and Java, with solid experience in frameworks (Symfony, Laravel, Spring Boot) and database management systems (MySQL, PostgreSQL, Redis). Skilled in API integration, performance optimization, and DevOps practices (CI/CD, Docker).
 
-- 💼 **Chef de Projet Digital** @ ICN Business School — LMS migration (Opigno/Drupal → Moodle), SSO Azure AD, AI integrations (Nolej, Murf AI, Panopto)
+- 💼 **Product Owner** @ ICN Business School — LMS migration (Opigno/Drupal → Moodle), SSO Azure AD, AI integrations (Nolej, Murf AI, Panopto)
 - 🔭 Building **AI tools** & **SaaS projects**
 - 🌱 Exploring **Dolibarr ↔ Laravel** integrations (APIs, automation, multi-tenant)
 - ⚙️ Interested in clean architecture, performance, and DX (Developer Experience)
